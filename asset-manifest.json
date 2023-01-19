@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anime-wiki/static/css/main.744fe935.css",
+    "main.js": "/anime-wiki/static/js/main.96c6ea88.js",
+    "static/js/787.78532f6c.chunk.js": "/anime-wiki/static/js/787.78532f6c.chunk.js",
+    "static/media/logo.svg": "/anime-wiki/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/anime-wiki/index.html",
+    "main.744fe935.css.map": "/anime-wiki/static/css/main.744fe935.css.map",
+    "main.96c6ea88.js.map": "/anime-wiki/static/js/main.96c6ea88.js.map",
+    "787.78532f6c.chunk.js.map": "/anime-wiki/static/js/787.78532f6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744fe935.css",
+    "static/js/main.96c6ea88.js"
+  ]
+}
